@@ -140,6 +140,6 @@ class Api {
   }
   // Замените на адрес вашего бэкенда
   // const api = new Api('http://localhost:3000');
-  const api = new Api('https://api.mesto.students.nomoredomainsmonster.ru');
+  const api = new Api('https://api.alexander.nomoredomainsmonster.ru');
 
   export default api;
